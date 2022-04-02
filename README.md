@@ -34,9 +34,18 @@ To set conteiners up execute:
 ```bash
 make run-dev
 ```  
-After setting server up there may be need to apply **migrations**. **Migrations** are **OBLIGATORY** to apply if running app first time or if there was any change in the database (don't forget to execute `makemigrations` when introducing changes). To apply migrations:
+After setting server up there may be need to apply **migrations**. **Migrations** are **OBLIGATORY** to apply if running app first time or if there was any changes in the database (don't forget to execute `makemigrations` when introducing changes). To apply migrations:
 ```bash
 make migrate
 ```
 
 Now local server should be accesible at [0.0.0.0:8000](0.0.0.0:8000), exposing endpoints as described in [Endpoints](#Endpoints) section.
+
+## Test and lint
+To run unit tests and linter use following commands:  
+```bash
+make test
+```
+```bash
+make lint
+```
