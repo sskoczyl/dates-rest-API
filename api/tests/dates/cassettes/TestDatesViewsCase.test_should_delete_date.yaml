@@ -1,0 +1,52 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/1/20/date
+  response:
+    body:
+      string: January 20th is the day in 250 that Emperor Decius begins a widespread
+        persecution of Christians in Rome.
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      - no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '105'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 13:48:48 GMT
+      ETag:
+      - W/"69-dSH3/+wvKy40uTO9lRI6UqTuPpE"
+      Expires:
+      - '0'
+      Last-Modified:
+      - '1648820928'
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      X-Numbers-API-Number:
+      - '20'
+      X-Numbers-API-Type:
+      - date
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+version: 1

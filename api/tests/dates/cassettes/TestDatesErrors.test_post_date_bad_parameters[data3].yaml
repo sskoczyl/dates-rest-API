@@ -1,0 +1,52 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/13/5/date
+  response:
+    body:
+      string: January 5th is the day in 1925 that Nellie Tayloe Ross of Wyoming becomes
+        the first female governor in the United States.
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      - no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '121'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 14:43:13 GMT
+      ETag:
+      - W/"79-sCh8U+RAxWwlwAYT3DfEUT0X+DA"
+      Expires:
+      - '0'
+      Last-Modified:
+      - '1648824193'
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      X-Numbers-API-Number:
+      - '5'
+      X-Numbers-API-Type:
+      - date
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+version: 1

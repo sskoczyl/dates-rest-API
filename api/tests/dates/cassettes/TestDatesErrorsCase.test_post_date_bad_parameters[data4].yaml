@@ -1,0 +1,52 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/1/-1/date
+  response:
+    body:
+      string: December 30th is the day in 1924 that Edwin Hubble announces the existence
+        of other galaxies.
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      - no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '93'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 13:48:51 GMT
+      ETag:
+      - W/"5d-7m7Or16+U3rosdyzlGQlLN/AUbg"
+      Expires:
+      - '0'
+      Last-Modified:
+      - '1648820931'
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      X-Numbers-API-Number:
+      - '365'
+      X-Numbers-API-Type:
+      - date
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+version: 1

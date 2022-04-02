@@ -1,0 +1,10 @@
+-r ./prod.in
+
+pip-tools
+pytest
+pytest-django
+pytest-vcr
+pytest-cov
+black 
+flake8
+isort 

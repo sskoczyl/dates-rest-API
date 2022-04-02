@@ -1,0 +1,305 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/1/20/date
+  response:
+    body:
+      string: January 20th is the day in 1972 that Pakistan launched its Nuclear detterent
+        program few weeks after its defeat in Bangladesh Liberation War and Indo-Pakistani
+        War of 1971.
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      - no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '172'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 13:48:46 GMT
+      ETag:
+      - W/"ac-JWq1pbvLUvWjA3d4xsxj3Cxjv0g"
+      Expires:
+      - '0'
+      Last-Modified:
+      - '1648820926'
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      X-Numbers-API-Number:
+      - '20'
+      X-Numbers-API-Type:
+      - date
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/1/20/date
+  response:
+    body:
+      string: January 20th is the day in 1841 that Hong Kong Island is occupied by
+        the British.
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      - no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '81'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 13:48:47 GMT
+      ETag:
+      - W/"51-A+FSzoYYgbPl2VsRV3yqU/e1F7k"
+      Expires:
+      - '0'
+      Last-Modified:
+      - '1648820927'
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      X-Numbers-API-Number:
+      - '20'
+      X-Numbers-API-Type:
+      - date
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/5/29/date
+  response:
+    body:
+      string: May 29th is the day in 1953 that Edmund Hillary and Sherpa Tenzing Norgay
+        become the first people to reach the summit of Mount Everest, on Tenzing Norgay's
+        (adopted) 39th birthday.
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      - no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '180'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 13:48:47 GMT
+      ETag:
+      - W/"b4-PYHYuv9ZhIwjDq+YW1rtHtpqeoU"
+      Expires:
+      - '0'
+      Last-Modified:
+      - '1648820927'
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      X-Numbers-API-Number:
+      - '150'
+      X-Numbers-API-Type:
+      - date
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/5/29/date
+  response:
+    body:
+      string: May 29th is the day in 1945 that First combat mission of the Consolidated
+        B-32 Dominator heavy bomber.
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      - no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '102'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 13:48:47 GMT
+      ETag:
+      - W/"66-Ninc7H8dPKMVgECBe+OZWabOZk4"
+      Expires:
+      - '0'
+      Last-Modified:
+      - '1648820927'
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      X-Numbers-API-Number:
+      - '150'
+      X-Numbers-API-Type:
+      - date
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/5/29/date
+  response:
+    body:
+      string: May 29th is the day in 1982 that Pope John Paul II becomes the first
+        pontiff to visit Canterbury Cathedral.
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      - no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '107'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 13:48:47 GMT
+      ETag:
+      - W/"6b-u+XSkhzyBDqGOCtDWHLdG0H0IEM"
+      Expires:
+      - '0'
+      Last-Modified:
+      - '1648820927'
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      X-Numbers-API-Number:
+      - '150'
+      X-Numbers-API-Type:
+      - date
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/11/21/date
+  response:
+    body:
+      string: November 21st is the day in 1990 that the Charter of Paris for a New
+        Europe refocuses the efforts of the Conference for Security and Co-operation
+        in Europeon post-Cold War issues.
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      - no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '179'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 13:48:48 GMT
+      ETag:
+      - W/"b3-7KJ5desl34CapTa04ENbfJV6sHY"
+      Expires:
+      - '0'
+      Last-Modified:
+      - '1648820928'
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      X-Numbers-API-Number:
+      - '326'
+      X-Numbers-API-Type:
+      - date
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+version: 1

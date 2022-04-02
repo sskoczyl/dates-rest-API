@@ -1,0 +1,103 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/1/20/date
+  response:
+    body:
+      string: January 20th is the day in 1972 that Pakistan launched its Nuclear detterent
+        program few weeks after its defeat in Bangladesh Liberation War and Indo-Pakistani
+        War of 1971.
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      - no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '172'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 13:48:46 GMT
+      ETag:
+      - W/"ac-JWq1pbvLUvWjA3d4xsxj3Cxjv0g"
+      Expires:
+      - '0'
+      Last-Modified:
+      - '1648820926'
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      X-Numbers-API-Number:
+      - '20'
+      X-Numbers-API-Type:
+      - date
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/5/29/date
+  response:
+    body:
+      string: May 29th is the day in 1950 that the St. Roch, the first ship to circumnavigate
+        North America, arrives in Halifax, Nova Scotia.
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-cache
+      - no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '127'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 13:48:46 GMT
+      ETag:
+      - W/"7f-ftlw5lDNWowUf5b84ZIdcaoSpzc"
+      Expires:
+      - '0'
+      Last-Modified:
+      - '1648820926'
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      X-Numbers-API-Number:
+      - '150'
+      X-Numbers-API-Type:
+      - date
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+version: 1

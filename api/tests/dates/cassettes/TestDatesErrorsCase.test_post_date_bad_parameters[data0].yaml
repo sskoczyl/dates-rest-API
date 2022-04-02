@@ -1,0 +1,45 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/None/1/date
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy2OsQ7CMAxE936FyY4sNgY3S4nYgKELoyGGIqUJMmbg70nUTqe7dycdbQ7nYbxe
+        Akw2J99RE0icn72T7FogHKvMYgz3ifUj1ruvPbb7Ru1lSXxQLUq4mI5w3dxK/NXOW8UPnHMxOIYR
+        8FSy4A4jmxA2WBdrFZcXfwBfFQaWAAAA
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Security-Policy:
+      - default-src 'none'
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 13:48:49 GMT
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      Transfer-Encoding:
+      - chunked
+      X-Content-Type-Options:
+      - nosniff
+      X-Powered-By:
+      - Express
+    status:
+      code: 404
+      message: Not Found
+version: 1

@@ -1,0 +1,45 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: http://numbersapi.com/nope/nope/date
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy1Ouw7CMAzc+xUhO8rK4GYpESMdunQ0xFCk1KmMGfr3JEqXO91LOjhd78M0j8Es
+        uibfQSWTkN+9JbbVIIyFVlI0zwXlS9rbn77Ol5rqRxP5IJIFXBMduGPzyHEvnU3ID8ic1dzCZBzn
+        jRpEVAJX8zI62q4d+QMqPCtimQAAAA==
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Security-Policy:
+      - default-src 'none'
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Fri, 01 Apr 2022 14:43:16 GMT
+      Server:
+      - nginx/1.4.6 (Ubuntu)
+      Transfer-Encoding:
+      - chunked
+      X-Content-Type-Options:
+      - nosniff
+      X-Powered-By:
+      - Express
+    status:
+      code: 404
+      message: Not Found
+version: 1

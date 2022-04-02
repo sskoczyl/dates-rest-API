@@ -1,0 +1,11 @@
+version: "3.9"
+
+# Used to generate image adapted to being deployed on Heroku
+
+services:
+  web:
+    container_name: web
+    build:
+      context: ./api
+      dockerfile: Dockerfile.api
+      target: production
